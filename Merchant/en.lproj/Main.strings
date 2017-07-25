@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "Pin"; ObjectID = "0Jq-FB-iRt"; */
+"0Jq-FB-iRt.text" = "Pin";
+
+/* Class = "UITextField"; placeholder = "Business Name"; ObjectID = "1nP-fk-G4K"; */
+"1nP-fk-G4K.placeholder" = "Business Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4ke-Gp-DAQ"; */
+"4ke-Gp-DAQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Waiting For Payment"; ObjectID = "5Ef-DU-X9z"; */
+"5Ef-DU-X9z.text" = "Waiting For Payment";
+
+/* Class = "UIButton"; normalTitle = "LET'S GO!"; ObjectID = "5ii-Sn-19i"; */
+"5ii-Sn-19i.normalTitle" = "LET'S GO!";
+
+/* Class = "UITextField"; placeholder = "Business Name"; ObjectID = "7Tt-lW-Pbw"; */
+"7Tt-lW-Pbw.placeholder" = "Business Name";
+
+/* Class = "UITextField"; placeholder = "Business Address"; ObjectID = "7i9-d0-um9"; */
+"7i9-d0-um9.placeholder" = "Business Address";
+
+/* Class = "UITextField"; placeholder = "Business City"; ObjectID = "99l-VL-zHA"; */
+"99l-VL-zHA.placeholder" = "Business City";
+
+/* Class = "UILabel"; text = "Set Pin"; ObjectID = "FSz-wQ-NbH"; */
+"FSz-wQ-NbH.text" = "Set Pin";
+
+/* Class = "UILabel"; text = "Language Setting:"; ObjectID = "FTY-K9-PAR"; */
+"FTY-K9-PAR.text" = "Language Setting:";
+
+/* Class = "UITextField"; placeholder = "Withdrawal address"; ObjectID = "Fg9-mS-qIS"; */
+"Fg9-mS-qIS.placeholder" = "Withdrawal address";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Hq7-b6-Dhc"; */
+"Hq7-b6-Dhc.title" = "Save";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "Jkv-ux-k86"; */
+"Jkv-ux-k86.title" = "Save";
+
+/* Class = "UILabel"; text = "BLOCKCHAIN"; ObjectID = "KpA-pf-Qez"; */
+"KpA-pf-Qez.text" = "BLOCKCHAIN";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "LE5-s1-sZc"; */
+"LE5-s1-sZc.text" = "$";
+
+/* Class = "UITextField"; placeholder = "Business Zipcode"; ObjectID = "O51-1M-VFK"; */
+"O51-1M-VFK.placeholder" = "Business Zipcode";
+
+/* Class = "UITextField"; placeholder = "Note"; ObjectID = "OLs-Nx-HQx"; */
+"OLs-Nx-HQx.placeholder" = "Note";
+
+/* Class = "UILabel"; text = "PLEASE NOTE THAT WE DO NOT HOLD ANY BITCOIN ON THIS DEVICE"; ObjectID = "RLW-ew-qZ3"; */
+"RLW-ew-qZ3.text" = "PLEASE NOTE THAT WE DO NOT HOLD ANY BITCOIN ON THIS DEVICE";
+
+/* Class = "UILabel"; text = "TIP : "; ObjectID = "SkC-KJ-Zx5"; */
+"SkC-KJ-Zx5.text" = "TIP : ";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "Wsb-7I-LIh"; */
+"Wsb-7I-LIh.placeholder" = "Phone";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "YlQ-Qg-h5v"; */
+"YlQ-Qg-h5v.text" = "$";
+
+/* Class = "UILabel"; text = "TOTAL : "; ObjectID = "aDn-2n-jla"; */
+"aDn-2n-jla.text" = "TOTAL : ";
+
+/* Class = "UILabel"; text = "Merchant"; ObjectID = "b1O-7c-LB9"; */
+"b1O-7c-LB9.text" = "Merchant";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "bF0-ft-Sg8"; */
+"bF0-ft-Sg8.title" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Wallet Address"; ObjectID = "cNM-1g-Dp4"; */
+"cNM-1g-Dp4.placeholder" = "Wallet Address";
+
+/* Class = "UILabel"; text = "Enter Pin"; ObjectID = "dFg-pB-VJh"; */
+"dFg-pB-VJh.text" = "Enter Pin";
+
+/* Class = "UINavigationItem"; title = "Sign Up"; ObjectID = "e4T-Hd-Zgp"; */
+"e4T-Hd-Zgp.title" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "USD"; ObjectID = "eQ0-HW-nGD"; */
+"eQ0-HW-nGD.placeholder" = "USD";
+
+/* Class = "UILabel"; text = "SUB-TOTAL : "; ObjectID = "fcX-7d-5LT"; */
+"fcX-7d-5LT.text" = "SUB-TOTAL : ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ixs-dX-e5k"; */
+"ixs-dX-e5k.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Currency"; ObjectID = "kZu-L8-Rhu"; */
+"kZu-L8-Rhu.placeholder" = "Currency";
+
+/* Class = "UILabel"; text = "Merchant"; ObjectID = "lEy-Zq-5uB"; */
+"lEy-Zq-5uB.text" = "Merchant";
+
+/* Class = "UILabel"; text = "BLOCKCHAIN"; ObjectID = "mGW-WT-Myf"; */
+"mGW-WT-Myf.text" = "BLOCKCHAIN";
+
+/* Class = "UILabel"; text = "Set up your merchant account"; ObjectID = "mcb-An-syl"; */
+"mcb-An-syl.text" = "Set up your merchant account";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "moT-2f-VS2"; */
+"moT-2f-VS2.text" = "$";
+
+/* Class = "UITextField"; placeholder = "Business Province"; ObjectID = "zal-zE-S24"; */
+"zal-zE-S24.placeholder" = "Business Province";

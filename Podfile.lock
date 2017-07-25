@@ -1,0 +1,24 @@
+PODS:
+  - CoreBitcoin (0.6.8.1):
+    - ISO8601DateFormatter
+    - OpenSSL-Universal (= 1.0.1.16)
+  - ISO8601DateFormatter (0.8)
+  - OneSignal (2.5.4)
+  - OpenSSL-Universal (1.0.1.16)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - CoreBitcoin (~> 0.5)
+  - OneSignal (< 3.0, >= 2.5.2)
+  - SocketRocket
+
+SPEC CHECKSUMS:
+  CoreBitcoin: 4ac6f6a61e543f08399c2fe57496d4fdcbaf74f9
+  ISO8601DateFormatter: 4551b6ce4f83185425f583b0b3feb3c7b59b942c
+  OneSignal: da994bcf6a2efbdceaf71e389e1d05245c562899
+  OpenSSL-Universal: 85ef63bf81d0741b03c8719cd29685c37c59518d
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 9a1aabc356f17a68db3ef74a00dcb4b3504349b5
+
+COCOAPODS: 1.2.1

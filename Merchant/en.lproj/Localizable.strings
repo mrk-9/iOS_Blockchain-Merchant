@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  Merchant
+
+  Created by Alex on 6/17/17.
+  Copyright © 2017 Alex. All rights reserved.
+*/
+
+// Generics
+
+"alert.ok" = "OK";
+"action.save" = "Save";
+"action.cancel" = "CANCEL";
+
+//additional
+"action.pay" = "PAY";
+"general.done" = "Done";
+"action.error" = "Error";
+"action.oop" = "Oops";
+"alert.invalid.passcode" = "Envalid Passcode. Please try again.";
+"alert.invalid.phonecall" = "Call facility is not available!";
+"alert.save.success" = "Saved successfully!";
+"alert.transaction.problem" = "We encountered a problem please try to charge this transaction again.";
+
+// Sign Up
+"signup.alert.title" = "Try again";
+"signup.warning" = "Business Name, Valid Wallet Address, and Currency are required.";
+"signup.business.name" = "Business Name";
+"signup.wallet.name" = "Wallet Address";
+"signup.currency.name" = "Currency";
+
+// Networking
+"network.problem.title" = "Network Error";
+"network.problem.detail" = "We encountered a networking issue.  Please try again.";
+
+"qr.trasnasction.info.waiting" = "Waiting For Payment";
+"qr.trasnasction.info.received" = "You received payment";//
+"qr.insufficient.payment.title" = "Insufficient Payment";
+"qr.insufficient.payment.message" = "Requested %@, received %@ BTC. QR image has been changed to reflect amount due.";
+"qr.overpaid.title" = "Overpaid transaction";
+"qr.overpaid.message" = "Amount received (%@ BTC) greater than amount requested (%@ BTC)";
+
+// QR Code Scanning
+"qr.scanning.permission.title" = "Enable Camera Access";
+"qr.scanning.permission.detail" = "Go to Settings and Enable Camera Access for Blockchain Merchant.";
+"qr.invalid" = "Invalid Wallet!";//
+
+// Transaction Detail
+"transaction.detail.seconds" = "seconds";
+"transaction.detail.minutes" = "minutes";
+"transaction.detail.time.ago" = "%.0f %@ ago";
+
+// Pin Entry
+"pin.entry.enter_passcode" = "Enter your passcode";
+"pin.entry.enter_new_passcode" = "Enter new passcode";
+"pin.entry.re_enter_passcode" = "Re-enter your passcode";
+"pin.entry.password_incorrect" = "Passcode Incorrect";
+"pin.info.reset_pin" = "Reset Pin";
+"pin.info.set_pin" = "Set Pin";
+"pin.info.pin" = "Enter Pin";//
+
+// Menu items //
+"menu.charge" = "Charge"; //action.charge
+"menu.transactions" = "Transactions";
+"menu.atms" = "ATMs";
+"menu.news" = "News & Promos";
+"menu.contact" = "Contact";
+"menu.about" = "About us";
+"menu.setting" = "Settings";
+
+// contact items //
+"contact.website" = "Website";
+"contact.email" = "Email";
+"contact.phone" = "Phone";
+"contact.facebook" = "Facebook";
+"contact.twitter" = "Twitter";
+"contact.google" = "Google";
+"contact.youtube" = "Youtube";
+
+//Transaction Detail //
+"transaction.subtotal" = "SUB-TOTAL";
+"transaction.tip" = "TIP";
+"transaction.total" = "TOTAL";

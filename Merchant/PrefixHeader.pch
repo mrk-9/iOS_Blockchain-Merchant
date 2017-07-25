@@ -1,0 +1,27 @@
+//
+//  PrefixHeader.pch
+//  Merchant
+//
+//  Created by Alex on 6/10/17.
+//  Copyright © 2017 Alex. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "Utils.h"
+#import "AppDefine.h"
+#import "MFSideMenu.h"
+#import "PinVC.h"
+#import "ProgressHUD.h"
+#import <CoreData/CoreData.h>
+#import "DataManager.h"
+#import "Payment.h"
+#import "Notification+CoreDataProperties.h"
+#import "Transaction+CoreDataProperties.h"
+
+#import "Foundation-Utility.h"
+#import "BCMNetworking.h"
+#endif /* PrefixHeader_pch */

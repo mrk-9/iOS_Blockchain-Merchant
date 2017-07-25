@@ -1,0 +1,84 @@
+/* 
+  Localizable.strings
+  Merchant
+
+  Created by Alex on 6/17/17.
+  Copyright © 2017 Alex. All rights reserved.
+*/
+
+"%@" = "%@";
+
+// Generics
+
+"alert.ok" = "Bien";
+"action.save" = "Enregistrer";
+"action.cancel" = "Annuler";
+
+"action.pay" = "Payer";
+"general.done" = "Terminé";//
+"action.error" = "Erreur";//
+"general.Oops" = "Oups";
+"alert.invalid.passcode" = "Code d'accès non valide. S'il vous plaît essayer à nouveau.";//
+"alert.invalid.phonecall" = "L'installation d'appel n'est pas disponible!";//
+"alert.save.success" = "Sauvegarde réussie!";//
+"alert.transaction.problem" = "Nous avons rencontré un problème, essayez de recharger cette transaction.";//
+
+// Sign Up
+"signup.alert.title" = "Réessayez";
+"signup.warning" = "Raison sociale, adresse valide de portefeuille et monnaie sont nécessaires.";
+"signup.business.name" = "Nom d'entreprise";
+"signup.wallet.name" = "Adresse de portefeuille";
+"signup.currency.name" = "Devise";
+
+// Networking
+"network.problem.title" = "Erreur réseau";
+"network.problem.detail" = "Nous avons rencontré un problème de réseau.  S'il vous plaît essayer de nouveau.";
+
+"qr.trasnasction.info.waiting" = "En attente de paiement";
+"qr.trasnasction.info.received" = "Vous avez reçu un paiement";//
+"qr.insufficient.payment.title" = "Paiement insuffisant";
+"qr.insufficient.payment.message" = "A demandé %@, reçu %@ BTC. Image de QR a été modifiée pour refléter le montant dû.";
+"qr.overpaid.title" = "Transaction en trop";
+"qr.overpaid.message" = "Montant reçu (%@ BTC) supérieur à la somme demandée (%@ BTC)";
+
+// QR Code Scanning
+"qr.scanning.permission.title" = "Activez l'accès à la caméra";
+"qr.scanning.permission.detail" = "Allez à paramètres et activer l'accès caméra pour marchand de Blockchain.";
+"qr.invalid" = "Portefeuille invalide!";//
+
+// Transaction Detail
+"transaction.detail.seconds" = "secondes";
+"transaction.detail.minutes" = "minutes";
+"transaction.detail.time.ago" = "Il y a de %.0f %@";
+
+// Pin Entry
+"pin.entry.enter_passcode" = "Saisissez votre mot de passe";
+"pin.entry.enter_new_passcode" = "Entrez le nouveau mot de passe";
+"pin.entry.re_enter_passcode" = "Entrez à nouveau votre code d'accès";
+"pin.entry.password_incorrect" = "Mot de passe Incorrect";
+"pin.info.reset_pin" = "Réinitialiser le code Pin";
+"pin.info.set_pin" = "Mettre broche";
+"pin.info.pin" = "Entrer Pin";//
+
+// Menu items //
+"menu.charge" = "Frais";
+"menu.transactions" = "Transactions";
+"menu.atms" = "ATMs";
+"menu.news" = "Nouvelles & Promos";
+"menu.contact" = "Contact";
+"menu.about" = "À propos";
+"menu.setting" = "Paramètres";
+
+// contact items //
+"contact.website" = "Site Web";
+"contact.email" = "Email";
+"contact.phone" = "Téléphone";
+"contact.facebook" = "Facebook";
+"contact.twitter" = "Twitter";
+"contact.google" = "Google";
+"contact.youtube" = "Youtube";
+
+//Transaction Detail //
+"transaction.subtotal" = "Sous-Total";
+"transaction.tip" = "Pourboire";
+"transaction.total" = "Total";
